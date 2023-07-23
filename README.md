@@ -21,7 +21,7 @@ The paper of this algorithm can be found through this [doi link](https://doi.org
 The Code and Data will be released soon. 
 
 ## An Introduction Video
-We have prepared an introduction video to provide an overview of this study. You can watch the video [Here]().
+The Intro video will be released soon. 
 
 ## Citation:
 ```

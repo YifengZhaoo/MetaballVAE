@@ -4,13 +4,7 @@
 ## Introduction
 Welcome to the GitHub repository for the Metaball Variational Auto-encoder (MetaballVAE) algorithm. 
 
-MetaballVAE is an particle generation algorithm 
-
-based on parental particles with X-ray Computed Tomography
-
-
-
-can be loaded into Metaball-Imaging Discrete Element method [MI-DELBM](https://github.com/YifengZhaoo/MI_DELBM) for simulations of fluid-particle systems. 
+MetaballVAE is an particle generation algorithm, which can learn particle morpholgoies from seveal parental particles and generate inifinte number of unexistent, new particles with coherent shape feature distributions. The generated particles are in Metaball-form and can be loaded into Metaball-Imaging Discrete Element method [MI-DELBM](https://github.com/YifengZhaoo/MI_DELBM) for direct simulations of fluid-particle systems. 
 
 This repository contains the associated manuscript, code, data, and supplementary materials. We hope this work will be helpful to the research community and encourage further collaboration and exploration in the field.  If you find my work of interest, please feel free to cite, implement, or reuse it as needed. Your engagement and collaboration are highly encouraged. 
 
